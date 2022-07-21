@@ -1,0 +1,15 @@
+,Sector,intersection,climate,health
+0,Banks,0.0,0.0,0.0
+1,Construction & Materials,0.0,5.0,99.0
+2,Electricity,1.0,77.0,456.0
+3,Financial Services,5.0,61.0,158.0
+4,"Gas, Water & Multiutilities",0.0,0.0,0.0
+5,General Industrials,0.0,3.0,1.0
+6,General Retailers,5.0,12.0,80.0
+7,Industrial Metals & Mining,21.0,62.0,376.0
+8,Mobile Telecommunications,0.0,0.0,0.0
+9,Not Applicable,0.0,4.0,12.0
+10,Oil & Gas Producers,12.0,131.0,1099.0
+11,"Oil Equipment, Services & D...",0.0,2.0,50.0
+12,Pharmaceuticals & Biotechno...,1.0,17.0,74.0
+13,Real Estate Investment & Se...,0.0,0.0,2.0
